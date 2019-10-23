@@ -10,6 +10,10 @@ public class CarMain {
 	public static void main(String[] args) {
 
 		//createCar();
+		
+		/*
+		 * Update one object car in DataBase
+		 */
 		updateCar();
 
 	}
