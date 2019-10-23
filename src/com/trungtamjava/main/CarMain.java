@@ -15,6 +15,7 @@ public class CarMain {
 		 * Update one object car in DataBase
 		 */
 		updateCar();
+		deleteCar();
 
 	}
 	
